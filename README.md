@@ -20,7 +20,7 @@ We utilized Node.js with Express for API routing and Handlebars for views. We ha
 
 ## Live Application Link
 
-[The application is deployed here via Heroku.](https://protected-fortress-16525.herokuapp.com/)
+[The application is deployed here via Heroku.](https://hidden-shelf-57015.herokuapp.com/)
 
 ## GitHub
 
